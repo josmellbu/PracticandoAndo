@@ -1,0 +1,4 @@
+yarn create vite 	//crea un projecto en react
+"yarn" o "yarn install" //instala las dependencias
+yarn dev 		//inicia el localhost, para el entorno de desarrollo
+yarn add prop-types	//instala el prop-types, para el control de tipos de props que tenemos
